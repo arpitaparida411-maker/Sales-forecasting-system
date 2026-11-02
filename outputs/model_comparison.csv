@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE
+Holt-Winters,953039.0,1168319.0,2.02
+Random Forest (lag features),959961.0,1323605.0,2.02
+Seasonal naive (52 weeks ago),1181619.0,1455381.0,2.5
+Naive (last value),3157980.0,3583173.0,6.62
